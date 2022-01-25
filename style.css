@@ -1,0 +1,65 @@
+h1{
+  text-align: center;
+  color:#92A9BD;
+  width:100%;
+  text-decoration: underline floralwhite;
+  padding-top:120px;
+  font-size:50px;
+  
+}
+p1,p3,p4,p5{
+  font-size: 30px;
+  color:aliceblue;
+}
+.p6{ border-top: 10px solid ghostwhite;
+border-bottom: 20px solid 
+ghostwhite;
+  background-color: dimgrey;
+}
+.para1{
+  font-size: 40pt;
+  color:slategray;
+  max-zoom: 100%;
+  text-decoration: underline;
+}
+body{
+  background-image:url(/wp2661660.jpg);
+  
+} 
+
+.welcomebanner img{
+  position: relative;
+  max-width: 100%;
+  border: 20px solid black;
+}
+.m1 img{
+  position:relative;
+  max-width:100%;
+  border:20px solid darkred;
+}
+.fr{background-color: grey;
+ max-zoom: 200%;
+ /*display: inline;*/
+ border:10px solid black;
+}
+nav{
+  background-color: lightgrey;
+  padding: 23px;
+  width:100%;
+  top:0;
+  position:fixed;
+  z-index: 1;
+}
+nav ul{
+  white-space: nowrap;
+  max-width: 1200px;
+}
+nav li{
+  display: inline-block;
+  width:25%;
+  font-weight: bold;
+  font-size: 30px;
+  
+}
+
+
