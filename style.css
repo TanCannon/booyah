@@ -37,10 +37,10 @@ body{
   max-width:100%;
   border:20px solid darkred;
 }
-.fr{background-color: grey;
- max-zoom: 200%;
- /*display: inline;*/
- border:10px solid black;
+form{background-color: grey;
+ padding: 20px;
+ width:100%;
+ border:15px solid black;
 }
 nav{
   background-color: lightgrey;
